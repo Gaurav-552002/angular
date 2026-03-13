@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GauravAngular
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.3.20.
@@ -61,3 +62,7 @@ For more information on using the Angular CLI, including detailed command refere
 
 
 ng g c login
+=======
+# angular
+angular
+>>>>>>> 7a783391268bf6fa1a4d32218438991931855351
